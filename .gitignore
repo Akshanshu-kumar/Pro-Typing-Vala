@@ -1,0 +1,63 @@
+# =====================
+# OS / SYSTEM FILES
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# EDITOR / IDE FILES
+# =====================
+.vscode/
+.idea/
+*.swp
+
+# =====================
+# ENV / CONFIG FILES
+# =====================
+.env
+.env.local
+config.php
+database.php
+db.php
+
+# =====================
+# LOG FILES
+# =====================
+*.log
+logs/
+error_log
+
+# =====================
+# DEPENDENCIES
+# =====================
+/vendor/
+/node_modules/
+
+# =====================
+# UPLOADS / USER FILES
+# =====================
+/uploads/
+/uploads/**
+/photos/
+/images/uploads/
+
+# =====================
+# CACHE / TEMP
+# =====================
+cache/
+tmp/
+temp/
+
+# =====================
+# BACKUP FILES
+# =====================
+*.zip
+*.rar
+*.bak
+*.sql
+
+# =====================
+# XAMPP / LOCAL
+# =====================
+.htaccess.local
