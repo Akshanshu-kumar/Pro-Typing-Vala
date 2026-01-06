@@ -41,7 +41,7 @@ A comprehensive, full-featured web application designed to help users improve th
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/typing-website.git
+    git clone https://github.com/Akshanshu-kumar/typing-website.git
     cd typing-website
     ```
 
